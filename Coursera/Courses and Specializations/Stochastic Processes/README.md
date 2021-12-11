@@ -1,0 +1,1 @@
+* ***Course:*** [**Stochastic Processes**](https://coursera.org/learn/stochasticprocesses) by *HSE University, Russia*.
