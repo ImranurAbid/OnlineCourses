@@ -1,5 +1,7 @@
-#Everything in this directory.
-*
 
-#Except the .gitignore file.
-!.gitignore
+
+.DS_Store
+.env
+.py
+.log
+.conf
