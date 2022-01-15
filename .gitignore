@@ -4,4 +4,4 @@
 *.conf
 
 # Keep the .gitignore file.
-!.gitignore
+!
