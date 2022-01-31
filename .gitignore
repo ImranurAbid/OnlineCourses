@@ -3,5 +3,5 @@
 *.log
 *.conf
 
-# Keep the .gitignore file.
-!.gitignore
+# Keep the following file(s):
+!
