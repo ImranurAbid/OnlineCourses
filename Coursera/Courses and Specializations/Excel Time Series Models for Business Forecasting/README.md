@@ -1,0 +1,1 @@
+* ***Course:*** [**Excel Time Series Models for Business Forecasting**](https://coursera.org/learn/excel-business-forecasting-time-series) by *Macquarie University*.
